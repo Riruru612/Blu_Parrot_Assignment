@@ -42,9 +42,7 @@ python rag_pipeline.py
 - faiss-cpu  
 - numpy  
 - groq  
-- langchain  
-- langchain-community  
-- openai  
+- dotenv
 
 
 ## Architecture Breakdown
